@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.exe
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.deps.json
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.dll
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\ref\SimpleMethod.dll
+F:\Console Apps\BobTaborCSharp\SimpleMethod\bin\Debug\net5.0\SimpleMethod.pdb
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.csproj.AssemblyReference.cache
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.dll
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\ref\SimpleMethod.dll
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.pdb
+F:\Console Apps\BobTaborCSharp\SimpleMethod\obj\Debug\net5.0\SimpleMethod.genruntimeconfig.cache

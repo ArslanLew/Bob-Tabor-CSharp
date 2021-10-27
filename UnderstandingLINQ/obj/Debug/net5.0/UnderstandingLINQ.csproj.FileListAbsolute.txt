@@ -1,0 +1,15 @@
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.exe
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.deps.json
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\ref\UnderstandingLINQ.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\ref\UnderstandingLINQ.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.genruntimeconfig.cache

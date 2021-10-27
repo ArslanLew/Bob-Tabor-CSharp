@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.csproj.AssemblyReference.cache
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.exe
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.deps.json
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\ref\WorkingWithCollections.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\bin\Debug\net5.0\WorkingWithCollections.pdb
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\ref\WorkingWithCollections.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.pdb
+F:\Console Apps\BobTaborCSharp\WorkingWithCollections\obj\Debug\net5.0\WorkingWithCollections.genruntimeconfig.cache

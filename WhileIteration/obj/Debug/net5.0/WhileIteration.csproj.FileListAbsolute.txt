@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.exe
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.deps.json
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.dll
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\ref\WhileIteration.dll
+F:\Console Apps\BobTaborCSharp\WhileIteration\bin\Debug\net5.0\WhileIteration.pdb
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.csproj.AssemblyReference.cache
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.dll
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\ref\WhileIteration.dll
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.pdb
+F:\Console Apps\BobTaborCSharp\WhileIteration\obj\Debug\net5.0\WhileIteration.genruntimeconfig.cache

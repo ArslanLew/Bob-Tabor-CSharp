@@ -1,0 +1,15 @@
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.exe
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.deps.json
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.dll
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\ref\HelperMethods.dll
+F:\Console Apps\BobTaborCSharp\HelperMethods\bin\Debug\net5.0\HelperMethods.pdb
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.dll
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\ref\HelperMethods.dll
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.pdb
+F:\Console Apps\BobTaborCSharp\HelperMethods\obj\Debug\net5.0\HelperMethods.genruntimeconfig.cache

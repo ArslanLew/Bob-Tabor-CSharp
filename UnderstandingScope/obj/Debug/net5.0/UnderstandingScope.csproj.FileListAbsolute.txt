@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.exe
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.deps.json
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\ref\UnderstandingScope.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.csproj.AssemblyReference.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\ref\UnderstandingScope.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.genruntimeconfig.cache

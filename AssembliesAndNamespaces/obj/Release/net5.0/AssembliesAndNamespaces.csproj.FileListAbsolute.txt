@@ -1,0 +1,15 @@
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.exe
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.deps.json
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.dll
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\ref\AssembliesAndNamespaces.dll
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\bin\Release\net5.0\AssembliesAndNamespaces.pdb
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.dll
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\ref\AssembliesAndNamespaces.dll
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.pdb
+F:\Console Apps\BobTaborCSharp\AssembliesAndNamespaces\obj\Release\net5.0\AssembliesAndNamespaces.genruntimeconfig.cache

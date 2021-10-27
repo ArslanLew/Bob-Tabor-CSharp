@@ -1,0 +1,11 @@
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\bin\Release\net5.0\MyCodeLibrary.deps.json
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\bin\Release\net5.0\MyCodeLibrary.dll
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\bin\Release\net5.0\ref\MyCodeLibrary.dll
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\bin\Release\net5.0\MyCodeLibrary.pdb
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.dll
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\ref\MyCodeLibrary.dll
+F:\Console Apps\BobTaborCSharp\MyCodeLibrary\obj\Release\net5.0\MyCodeLibrary.pdb

@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.exe
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.deps.json
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.dll
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ref\ObjectLifetime.dll
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\bin\Debug\net5.0\ObjectLifetime.pdb
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.csproj.AssemblyReference.cache
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.dll
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ref\ObjectLifetime.dll
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.pdb
+F:\Console Apps\BobTaborCSharp\ObjectLifetime\obj\Debug\net5.0\ObjectLifetime.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.exe
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.deps.json
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\ref\WorkingWithStrings.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.pdb
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\ref\WorkingWithStrings.dll
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.pdb
+F:\Console Apps\BobTaborCSharp\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.genruntimeconfig.cache

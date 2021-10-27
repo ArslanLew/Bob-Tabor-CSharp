@@ -1,0 +1,15 @@
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.exe
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.deps.json
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\ref\UnderstandingArrays.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\bin\Debug\net5.0\UnderstandingArrays.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\ref\UnderstandingArrays.dll
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.pdb
+F:\Console Apps\BobTaborCSharp\UnderstandingArrays\obj\Debug\net5.0\UnderstandingArrays.genruntimeconfig.cache

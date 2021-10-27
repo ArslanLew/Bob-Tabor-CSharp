@@ -1,0 +1,16 @@
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.exe
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.deps.json
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.runtimeconfig.json
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.runtimeconfig.dev.json
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.dll
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ref\ForIteration.dll
+F:\Console Apps\BobTaborCSharp\ForIteration\bin\Debug\net5.0\ForIteration.pdb
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.AssemblyInfoInputs.cache
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.AssemblyInfo.cs
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.csproj.CoreCompileInputs.cache
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.dll
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ref\ForIteration.dll
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.pdb
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.genruntimeconfig.cache
+F:\Console Apps\BobTaborCSharp\ForIteration\obj\Debug\net5.0\ForIteration.csproj.AssemblyReference.cache
